@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode
+*.xcuserstate
+*.xcworkspace/
+*.xcuserdata/
+*.xcuserdatad/
+*.xcscmblueprint
+*.xccheckout
+*.moved-aside
+DerivedData/
+build/
+
+# Swift Playgrounds
+timeline.xctimeline
+playground.xcworkspace/
+
+# User-specific files
+*.swp
+*.swo
+*.tmp
+
+# General
+*.log
+*.orig
+
+# Other
+*.plist
+
+# Ignore backup files
+*~
+
+# Ignore by folder name
+**/xcuserdata/
+**/DerivedData/
+**/build/
